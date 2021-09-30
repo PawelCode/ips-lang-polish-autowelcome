@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="autowelcome" version="100104">
+  <word key="__app_autowelcome" js="0">Automatyczne Przywitanie</word>
+  <word key="menu__autowelcome_settings" js="0">Automatyczne Przywitanie</word>
+  <word key="menu__autowelcome_settings_settings" js="0">Ustawienia</word>
+  <word key="emailtpl_welcomeEmail" js="0">Witamy nowego użytkownika</word>
+  <word key="task__welcomeAlerts" js="0">Wysyła powiadomienia powitalne, jeśli używasz opóźnienia czasowego.</word>
+  <word key="aw_pm_settings" js="0">Wiadomość prywatna</word>
+  <word key="aw_email_settings" js="0">E-mail</word>
+  <word key="aw_topic_settings_header" js="0">Temat</word>
+  <word key="aw_enable_pm" js="0">Wyślij PW</word>
+  <word key="aw_enable_pm_desc" js="0">Wyślij prywatną wiadomość do nowych użytkowników?</word>
+  <word key="aw_pm_subject" js="0">Nazwa Tematu</word>
+  <word key="aw_pm_subject_desc" js="0">Wprowadź temat wiadomości prywatnej.</word>
+  <word key="aw_pm_from" js="0">Nadawca</word>
+  <word key="aw_pm_from_desc" js="0">Utwórz konto tylko dla wiadomości prywatnej, aby uniknąć wypełniania skrzynki odbiorczej.</word>
+  <word key="aw_pm_message" js="0">Wiadomość</word>
+  <word key="aw_pm_message_desc" js="0">Wprowadź treść wiadomości prywatnej.</word>
+  <word key="aw_enable_email" js="0">Wysłać e-mail?</word>
+  <word key="aw_enable_email_desc" js="0">Wyślij e-mail do nowych użytkowników?</word>
+  <word key="aw_email_subject" js="0">Nazwa Tematu</word>
+  <word key="aw_email_subject_desc" js="0"><![CDATA[Wprowadź temat wiadomości e-mail. <strong> Szybkie tagi nie będą tutaj działać.</strong>]]></word>
+  <word key="aw_email_from" js="0">Nadawca</word>
+  <word key="aw_email_from_desc" js="0">Pozostaw puste, aby korzystać z e-mailu ustawionego na forum.</word>
+  <word key="aw_email_message" js="0">Widomość</word>
+  <word key="aw_email_message_desc" js="0">Wprowadź treść wiadomości e-mail.</word>
+  <word key="aw_enable_topic" js="0">Stworzyć nowy temat?</word>
+  <word key="aw_enable_topic_desc" js="0">Utworzyć nowy temat dla nowych użytkowników?</word>
+  <word key="aw_post_reply" js="0">Dodaj Odpowiedź</word>
+  <word key="aw_post_reply_desc" js="0">Dodaj odpowiedź w temacie, zamiast nowego tematu?</word>
+  <word key="aw_pin_topic" js="0">Przypnij temat</word>
+  <word key="aw_close_topic" js="0">Zamknij temat</word>
+  <word key="aw_topic_author" js="0">Autor postu/tematu</word>
+  <word key="aw_topic_author_desc" js="0">Wprowadź wyświetlaną nazwę tematu / autora postu.</word>
+  <word key="aw_topic_title" js="0">Tytuł tematu</word>
+  <word key="aw_topic_title_desc" js="0">Wprowadź tytuł tematu...</word>
+  <word key="aw_topic_forum" js="0">Forum?</word>
+  <word key="aw_topic_forum_desc" js="0">Wybierz forum, na którym zostanie opublikowany temat.</word>
+  <word key="aw_topic_settings" js="0">Ustawienia tematu</word>
+  <word key="aw_topic_settings_desc" js="0">Czy chcesz przypiąć lub zamknąć nowe tematy?</word>
+  <word key="aw_topic_message" js="0">Temat / post</word>
+  <word key="aw_welcome_topic" js="0">Nazwa tematu</word>
+  <word key="aw_welcome_topic_desc" js="0">Wpisz nazwę tematu, do którego chcesz dodać nowe posty powitalne.</word>
+  <word key="aw_topic_own" js="0">Teamt stworzony przez nowego Użytkownika</word>
+  <word key="aw_topic_own_desc" js="0">Użyj nowego użytkownika rejestrującego się jako autor tematu / postu?</word>
+  <word key="view_member" js="0">Wyświetl użytkownika</word>
+  <word key="autowelcome_status_settings" js="0">Aktualizacja Statusu</word>
+  <word key="aw_status_enable" js="0">Wysłać status</word>
+  <word key="aw_status_enable_desc" js="0"><![CDATA[Publikuj aktualizacje statusu użytkowników? <strong>Aktualizacje statusu muszą być włączone dla forów i użytkowników.</strong>]]></word>
+  <word key="aw_status_author" js="0">Autor</word>
+  <word key="aw_status_author_desc" js="0">Wprowadź wyświetlaną nazwę autora aktualizacji statusu.</word>
+  <word key="aw_status_message" js="0">Wiadomość</word>
+  <word key="aw_status_message_desc" js="0">Aktualizacja statusu, aby publikować na nowych kontach użytkowników?</word>
+  <word key="aw_pm_system" js="0">System PW</word>
+  <word key="aw_pm_system_desc" js="0">Wysyłanie jako system PW nie doda do skrzynki nadawcy.</word>
+  <word key="autowelcome_chat_settings" js="0">CzatBox</word>
+  <word key="aw_chat_enable" js="0">Wysyłać wiadomości na CzatBox'ie?</word>
+  <word key="aw_chat_enable_desc" js="0">Włącz, żeby witało nowych użytkowników na czatboxie</word>
+  <word key="aw_chat_author" js="0">Autor</word>
+  <word key="aw_chat_author_desc" js="0">Wprowadź nazwę użytkownika, który będzie publikował nowe wiadomości na czacie?</word>
+  <word key="aw_chat_message" js="0">Wiadomość</word>
+  <word key="aw_chat_message_desc" js="0">Wprowadź treść wiadomości która będzie wyświetlana na czacie.</word>
+  <word key="aw_general_settings_tab" js="0">Główne</word>
+  <word key="aw_general_settings_header" js="0">Główne ustawienia</word>
+  <word key="aw_welcome_delay" js="0">Opóźnione powitania</word>
+  <word key="aw_welcome_delay_desc" js="0">Czy chcesz wysyłać powiadomienia powitalne z opóźnieniem czasowym po dołączeniu użytkownika ?</word>
+  <word key="aw_welcome_delay_hours" js="0">godzina</word>
+  <word key="aw_welcome_delay_unlimitedLang" js="0">Wyślij natychmiast po sprawdzeniu poprawności.</word>
+  <word key="aw_skip_validating" js="0">Pomiń sprawdzanie poprawności</word>
+  <word key="aw_skip_validating_desc" js="0">Pomiń sprawdzających użytkowników od otrzymywania powiadomień powitalnych.</word>
+  <word key="aw_welcome_groups" js="0">Powitaj grupy użytkowników?</word>
+  <word key="aw_welcome_groups_desc" js="0">Której grupy, użytkownik musi być częścią, aby otrzymywać powiadomienia powitalne?</word>
+  <word key="aw_welcome_groups_unlimitedLang" js="0">Wszystkie grupy.</word>
+  <word key="awtag_member_name" js="0">Nazwa Użytkownika</word>
+  <word key="awtag_member_id" js="0">ID użytkownika</word>
+  <word key="awtag_member_link" js="0">Link do użytkownika</word>
+  <word key="awtag_board_name" js="0">Nazwa strony</word>
+  <word key="awtag_joined_date" js="0">Data dołączenia</word>
+  <word key="awtag_profile_link" js="0">Link do profilu</word>
+  <word key="awtag_topic_link" js="0">Link do tematu</word>
+ </app>
+</language>
