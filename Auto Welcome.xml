@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="autowelcome" version="100104">
+ <app key="autowelcome" version="100106">
   <word key="__app_autowelcome" js="0">Automatyczne Przywitanie</word>
   <word key="menu__autowelcome_settings" js="0">Automatyczne Przywitanie</word>
   <word key="menu__autowelcome_settings_settings" js="0">Ustawienia</word>
@@ -20,7 +20,7 @@
   <word key="aw_enable_email" js="0">Wysłać e-mail?</word>
   <word key="aw_enable_email_desc" js="0">Wyślij e-mail do nowych użytkowników?</word>
   <word key="aw_email_subject" js="0">Nazwa Tematu</word>
-  <word key="aw_email_subject_desc" js="0"><![CDATA[Wprowadź temat wiadomości e-mail. <strong> Szybkie tagi nie będą tutaj działać.</strong>]]></word>
+  <word key="aw_email_subject_desc" js="0"><![CDATA[Wprowadź temat wiadomości e-mail.<strong> Szybkie tagi nie będą tutaj działać.</strong>]]></word>
   <word key="aw_email_from" js="0">Nadawca</word>
   <word key="aw_email_from_desc" js="0">Pozostaw puste, aby korzystać z e-mailu ustawionego na forum.</word>
   <word key="aw_email_message" js="0">Widomość</word>
